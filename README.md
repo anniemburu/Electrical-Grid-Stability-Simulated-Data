@@ -1,3 +1,3 @@
-# Managing Quality Metric For Global Economic Footprint
+# Electrical Grid Stability Simulated Data
 
 Data used: 
